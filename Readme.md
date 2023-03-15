@@ -12,7 +12,11 @@ Esse projeto foi desenvolvido para gerenciar pedidos de uma hamburgueria. O back
 
 Para utilizar use o Isominia para testar GET, POST, PUT e DELETE.
 
+<<<<<<< HEAD
 [POST](./img/Screenshot_15.png)
+=======
+[GET]<img src="./img/Screenshot_15.png">
+>>>>>>> a3d57a48117ee469a02dda839ec383f8d2304a00
 [texto alternativo da imagem](./img/Screenshot_16.png)
 [texto alternativo da imagem](./img/Screenshot_17.png)
 [texto alternativo da imagem](./img/Screenshot_18.png)
